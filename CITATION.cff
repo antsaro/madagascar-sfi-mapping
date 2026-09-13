@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+title: "Madagascar Soil Fertility Index (SFI) Mapping — Random Forest Regression-Kriging"
+type: software
+authors:
+  - family-names: Rafidimanantsoa
+    given-names: Sarobidy
+    affiliation: "Laboratoire des Radioisotopes, University of Antananarivo, Madagascar"
+  - family-names: Ramifehiarivo
+    given-names: Nandrianina
+    affiliation: "Laboratoire des Radioisotopes, University of Antananarivo, Madagascar"
+  - family-names: Ratovoarimanana
+    given-names: Lovafitia
+    affiliation: "Laboratoire des Radioisotopes, University of Antananarivo, Madagascar"
+  - family-names: Andriamananjara
+    given-names: Andry
+    affiliation: "Laboratoire des Radioisotopes, University of Antananarivo, Madagascar"
+  - family-names: Bouillon
+    given-names: Steven
+    affiliation: "Department of Earth & Environmental Sciences, KU Leuven, Belgium"
+  - family-names: Devenish
+    given-names: Adam
+    affiliation: "Royal Botanic Gardens Edinburgh / Royal Botanic Gardens Kew"
+  - family-names: Razakamanarivo
+    given-names: Herintsitohaina
+    affiliation: "Laboratoire des Radioisotopes, University of Antananarivo, Madagascar"
+preferred-citation:
+  type: article
+  title: "Comparative assessment of soil fertility across different land cover types in three bioclimatic regions of Madagascar"
+  authors:
+    - family-names: Rafidimanantsoa
+      given-names: Sarobidy
+    - family-names: Ramifehiarivo
+      given-names: Nandrianina
+    - family-names: Ratovoarimanana
+      given-names: Lovafitia
+    - family-names: Andriamananjara
+      given-names: Andry
+    - family-names: Bouillon
+      given-names: Steven
+    - family-names: Devenish
+      given-names: Adam
+    - family-names: Razakamanarivo
+      given-names: Herintsitohaina
+  journal: "Geoderma"
+  status: submitted
+  year: 2026

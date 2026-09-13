@@ -1,0 +1,34 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+
+# Geospatial
+geopandas
+fiona
+rasterio
+shapely
+pyproj
+
+# Machine learning
+scikit-learn
+statsmodels
+optuna
+shap
+joblib
+
+# Spatial statistics / kriging (CPU reference implementation)
+pykrige
+
+# Acceleration / utilities
+numba
+tqdm
+
+# Plotting
+matplotlib
+
+# Font asset used for figures (Kaggle Hub dataset download)
+kagglehub
+
+# Excel export (descriptive statistics table)
+openpyxl
