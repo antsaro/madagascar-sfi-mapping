@@ -154,9 +154,17 @@ $$\gamma(h) = \text{psill} \left(1 - \exp\!\left(-\frac{h^2}{4r^2/7}\right)\righ
 $$\gamma(h) = \text{psill} \left(1 - \exp\!\left(-\frac{h}{r/3}\right)\right) + \text{nugget}$$
 
 **Spherical:**
-$$\gamma(h) = \left\{ \begin{array}{ll} \text{psill}\left(\dfrac{3h}{2r} - \dfrac{h^3}{2r^3}\right) + \text{nugget}, & h \le r \\ \text{psill} + \text{nugget}, & h > r \end{array} \right.$$
 
-with $r$ the range, $\text{psill}$ the partial sill, and $\text{nugget}$ the nugget effect.
+$$
+\gamma(h) =
+\begin{cases}
+C_0 + C\left(\dfrac{3h}{2a} - \dfrac{h^3}{2a^3}\right), & h \le a \\
+C_0 + C, & h > a
+\end{cases}
+$$
+
+where $C_0$ is the nugget, $C$ is the partial sill, and $a$ is the range.
+
 
 **Ordinary Kriging (local, moving-window).** For a query location $s_0$, its $K$ nearest sampled residuals are used. The kriging weights $\lambda = (\lambda_1, \ldots, \lambda_K)$ and Lagrange multiplier $\mu$ solve the linear system enforcing unbiasedness ($\sum_i \lambda_i = 1$):
 
