@@ -154,7 +154,7 @@ $$\gamma(h) = \text{psill} \left(1 - \exp\!\left(-\frac{h^2}{4r^2/7}\right)\righ
 $$\gamma(h) = \text{psill} \left(1 - \exp\!\left(-\frac{h}{r/3}\right)\right) + \text{nugget}$$
 
 **Spherical:**
-$$\gamma(h) = \begin{cases} \text{psill}\left(\dfrac{3h}{2r} - \dfrac{h^3}{2r^3}\right) + \text{nugget}, & h \le r \\ \text{psill} + \text{nugget}, & h > r \end{cases}$$
+$$\gamma(h) = \left\{ \begin{array}{ll} \text{psill}\left(\dfrac{3h}{2r} - \dfrac{h^3}{2r^3}\right) + \text{nugget}, & h \le r \\ \text{psill} + \text{nugget}, & h > r \end{array} \right.$$
 
 with $r$ the range, $\text{psill}$ the partial sill, and $\text{nugget}$ the nugget effect.
 
