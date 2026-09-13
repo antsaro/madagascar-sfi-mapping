@@ -91,7 +91,7 @@ Before model fitting, numeric predictors are screened for multicollinearity usin
 
 $$VIF_j = \frac{1}{1 - R_j^2}$$
 
-where $R_j^2$ is the coefficient of determination of predictor *j* regressed on all remaining predictors. A stepwise elimination removes, at each iteration, the non-priority predictor with the highest VIF (threshold VIF ≥ 10).
+where $R_j^2$ is the coefficient of determination of predictor *j* regressed on all remaining predictors. A stepwise elimination removes, at each iteration, the predictor having the highest VIF value (threshold VIF ≥ 10).
 
 ### 2.3 Random Forest regression (trend model)
 
