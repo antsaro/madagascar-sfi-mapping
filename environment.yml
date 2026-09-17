@@ -1,0 +1,31 @@
+name: sfi-madagascar
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - geopandas
+  - fiona
+  - rasterio
+  - shapely
+  - pyproj
+  - scikit-learn
+  - statsmodels
+  - matplotlib
+  - seaborn
+  - numba
+  - tqdm
+  - openpyxl
+  - pip
+  - pip:
+      - optuna
+      - shap
+      - joblib
+      - pykrige
+      - kagglehub
+
+# For the GPU raster-prediction scripts (cuML, cuPy), create a SEPARATE
+# RAPIDS environment instead of adding those packages here -- see
+# requirements-gpu.txt for the recommended install command.

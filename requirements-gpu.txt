@@ -1,0 +1,15 @@
+# Optional: only required for the GPU-accelerated raster prediction scripts
+# (scripts/04_rf_mapping/01_bootstrap_mean_std_prediction_gpu.py and
+#  scripts/06_rk_mapping/01_point_estimate_prediction_gpu_kriging.py).
+#
+# These are RAPIDS packages and are NOT pip-installable in the general case --
+# install via conda/mamba from the RAPIDS channel, matching your CUDA toolkit
+# version. See https://docs.rapids.ai/install/ for the exact command for your
+# system, e.g.:
+#
+#   conda create -n sfi-madagascar-gpu -c rapidsai -c conda-forge -c nvidia \
+#       cuml=25.* cupy python=3.11 cuda-version=12.5
+#
+# Packages needed on top of requirements.txt:
+#   cuml       (RAPIDS ML: ForestInference, NearestNeighbors)
+#   cupy       (GPU arrays / batched linear algebra)
