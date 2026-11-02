@@ -1,0 +1,4 @@
+2026-11-02 15:07:19,441  Results folder: outputs/lmm
+2026-11-02 15:07:19,458  Data: 1523 samples, 307 plots
+2026-11-02 15:11:14,671  R2 marginal 0.308 | conditional 0.828 | ICC 0.630
+2026-11-02 15:11:47,770  Finished in 268 s. Files written to: outputs/lmm/tables | Figures: run 02_sfi_lmm_figures.py
