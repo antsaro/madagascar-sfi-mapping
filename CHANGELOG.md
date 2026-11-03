@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-11-03: manuscript title and authors
+- README and `CITATION.cff` updated to the new manuscript title, *Spatial prediction of soil fertility across tropical
+  forest-grassland mosaics*, with the full author list, numbered affiliations (including Université catholique de Louvain),
+  equal-contribution note and corresponding author.
+
+## 2026-11-03: publication figures
+- New `scripts/08_publication_figures/01_nature_style_figures.py`: Nature-style figures (Arial, exact journal widths,
+  panel letters, 600 dpi PNG + vector PDF) in original and colour-blind palettes, with four combined main figures,
+  a supplementary diagnostics figure, draft figure legends and an index of files.
+
 ## 2026-11-02: SFI assessment update and mixed-model analysis
 
 ### Changed: SFI construction (`scripts/00_sfi_index_construction/`, `notebooks/sfi_index_construction.ipynb`)
