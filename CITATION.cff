@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+title: "Spatial prediction of soil fertility across tropical forest-grassland mosaics: analysis code"
+type: software
+abstract: "Pipeline to construct a PCA-weighted Soil Fertility Index from soil-profile measurements, map it with Random Forest regression-kriging, and compare it among landscapes, land cover types and soil depths with linear mixed-effects models (Madagascar)."
+license: MIT
+date-released: 2026-11-03
+keywords:
+  - soil fertility index
+  - digital soil mapping
+  - random forest
+  - regression-kriging
+  - linear mixed models
+  - forest-grassland mosaic
+  - Madagascar
+authors:
+  - family-names: Rafidimanantsoa
+    given-names: "Lovanirina Sarobidy"
+    affiliation: "Laboratoire des Radioisotopes (LRI), Université d'Antananarivo, Madagascar; École Supérieure des Sciences Agronomiques (ESSA), Université d'Antananarivo, Madagascar; Université catholique de Louvain, Belgium"
+  - family-names: Ramifehiarivo
+    given-names: Nandrianina
+    email: ranandrianina@gmail.com
+    affiliation: "Laboratoire des Radioisotopes (LRI), Université d'Antananarivo, Madagascar; École Supérieure des Sciences Agronomiques (ESSA), Université d'Antananarivo, Madagascar"
+  - family-names: Ratovoarimanana
+    given-names: Lovafitia
+    affiliation: "Laboratoire des Radioisotopes (LRI), Université d'Antananarivo, Madagascar"
+  - family-names: Andriamananjara
+    given-names: Andry
+    affiliation: "Laboratoire des Radioisotopes (LRI), Université d'Antananarivo, Madagascar"
+  - family-names: Devenish
+    given-names: Adam
+    affiliation: "Royal Botanic Gardens Edinburgh, United Kingdom; Royal Botanic Gardens, Kew, United Kingdom"
+  - family-names: Randrianantenaina
+    given-names: "Antsa Sarobidy"
+    affiliation: "Laboratoire des Radioisotopes (LRI), Université d'Antananarivo, Madagascar; École Supérieure des Sciences Agronomiques (ESSA), Université d'Antananarivo, Madagascar; Sorbonne Université, France"
+  - family-names: Razakamanarivo
+    given-names: Herintsitohaina
+    affiliation: "Laboratoire des Radioisotopes (LRI), Université d'Antananarivo, Madagascar"
+preferred-citation:
+  type: article
+  title: "Spatial prediction of soil fertility across tropical forest-grassland mosaics"
+  authors:
+    - family-names: Rafidimanantsoa
+      given-names: "Lovanirina Sarobidy"
+    - family-names: Ramifehiarivo
+      given-names: Nandrianina
+    - family-names: Ratovoarimanana
+      given-names: Lovafitia
+    - family-names: Andriamananjara
+      given-names: Andry
+    - family-names: Devenish
+      given-names: Adam
+    - family-names: Randrianantenaina
+      given-names: "Antsa Sarobidy"
+    - family-names: Razakamanarivo
+      given-names: Herintsitohaina
+  journal: "Geoderma Regional"
+  status: submitted
+  year: 2026
