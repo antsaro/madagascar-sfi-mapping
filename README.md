@@ -14,15 +14,14 @@ Code and analysis pipeline for the manuscript:
 
 > **Spatial prediction of soil fertility across tropical forest-grassland mosaics**
 >
-> Lovanirina Sarobidy Rafidimanantsoa<sup>1,2,6</sup>, Nandrianina Ramifehiarivo<sup>1,2,\*,+</sup>, Lovafitia Ratovoarimanana<sup>1</sup>, Andry Andriamananjara<sup>1</sup>, Steven Bouillon<sup>3</sup>, Adam Devenish<sup>4,5</sup>, Antsa Sarobidy Randrianantenaina<sup>1,2,7</sup>, Herintsitohaina Razakamanarivo<sup>1</sup>
+> Lovanirina Sarobidy Rafidimanantsoa<sup>1,2,5</sup>, Nandrianina Ramifehiarivo<sup>1,2,\*,+</sup>, Lovafitia Ratovoarimanana<sup>1</sup>, Andry Andriamananjara<sup>1</sup>, Adam Devenish<sup>3,4</sup>, Antsa Sarobidy Randrianantenaina<sup>1,2,6</sup>, Herintsitohaina Razakamanarivo<sup>1</sup>
 >
 > <sup>1</sup> Laboratoire des Radioisotopes (LRI), Université d'Antananarivo, Route d'Andraisoro, BP 3383, Antananarivo 101, Madagascar<br>
 > <sup>2</sup> École Supérieure des Sciences Agronomiques (ESSA), Université d'Antananarivo, Route d'Ambohitsaina, BP 175, Antananarivo 101, Madagascar<br>
-> <sup>3</sup> Department of Earth & Environmental Sciences, KU Leuven, Celestijnenlaan 200E, 3001 Leuven, Belgium<br>
-> <sup>4</sup> Royal Botanic Gardens Edinburgh, 20A Inverleith Row, Edinburgh EH3 5LR, United Kingdom<br>
-> <sup>5</sup> Royal Botanic Gardens, Kew, Richmond, Surrey TW9 3AE, United Kingdom<br>
-> <sup>6</sup> Université catholique de Louvain, 1 place de l'Université, 1348 Louvain-la-Neuve, Belgium<br>
-> <sup>7</sup> Mention Biodiversité, Écologie et Évolution, Faculté des Sciences et Ingénierie, Sorbonne Université, 4 Place Jussieu, 75005 Paris, France
+> <sup>3</sup> Royal Botanic Gardens Edinburgh, 20A Inverleith Row, Edinburgh EH3 5LR, United Kingdom<br>
+> <sup>4</sup> Royal Botanic Gardens, Kew, Richmond, Surrey TW9 3AE, United Kingdom<br>
+> <sup>5</sup> Université catholique de Louvain, 1 place de l'Université, 1348 Louvain-la-Neuve, Belgium<br>
+> <sup>6</sup> Mention Biodiversité, Écologie et Évolution, Faculté des Sciences et Ingénierie, Sorbonne Université, 4 Place Jussieu, 75005 Paris, France
 >
 > <sup>+</sup> The first two authors contributed equally. <sup>\*</sup> Corresponding author: [ranandrianina@gmail.com](mailto:ranandrianina@gmail.com)
 >
