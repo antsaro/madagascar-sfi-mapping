@@ -383,7 +383,7 @@ References cited in the mixed-model code (the SFI method references, Sulaeman et
 
 If you use this code, please cite the associated manuscript (citation to be updated upon publication, see `CITATION.cff`):
 
-> Rafidimanantsoa, L. S., Ramifehiarivo, N., Ratovoarimanana, L., Andriamananjara, A., Bouillon, S., Devenish, A., Randrianantenaina, A. S., Razakamanarivo, H. *Spatial prediction of soil fertility across tropical forest-grassland mosaics*. Submitted to *Geoderma Regional*.
+> Rafidimanantsoa, L. S., Ramifehiarivo, N., Ratovoarimanana, L., Andriamananjara, A., Devenish, A., Randrianantenaina, A. S., Razakamanarivo, H. *Spatial prediction of soil fertility across tropical forest-grassland mosaics*. Submitted to *Geoderma Regional*.
 
 ## 7. License
 
