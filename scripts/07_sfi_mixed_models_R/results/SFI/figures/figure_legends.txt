@@ -1,0 +1,78 @@
+Proposed captions for the manuscript: Soil fertility index (SFI)
+
+[fig_box_01_global_site]
+Boxes: median and interquartile range; whiskers: 1.5 x IQR; + = mean; points = individual samples (land
+covers and depths pooled); n = number of samples. Letters: Holm-adjusted pairwise comparisons of landscape
+levels from the linear mixed model; the same letter indicates no significant difference. p: Satterthwaite
+F-test of landscape.
+
+[fig_box_02_global_landcover]
+Boxes: median and interquartile range; whiskers: 1.5 x IQR; + = mean; points = individual samples (landscapes
+and depths pooled); n = number of samples. Letters: Holm-adjusted pairwise comparisons of land cover levels
+from the linear mixed model; the same letter indicates no significant difference. p: Satterthwaite F-test of
+land cover.
+
+[fig_box_03_site_by_landcover]
+Boxes: median and interquartile range; whiskers: 1.5 x IQR; + = mean; points = individual samples (depths
+pooled); n = number of samples. Letters: Holm-adjusted pairwise comparisons of land cover levels from the
+linear mixed model, within each landscape; the same letter indicates no significant difference. p:
+Satterthwaite F-test of land cover within each landscape.
+
+[fig_box_04_landcover_by_site]
+Boxes: median and interquartile range; whiskers: 1.5 x IQR; + = mean; points = individual samples (depths
+pooled); n = number of samples. Letters: Holm-adjusted pairwise comparisons of landscape levels from the
+linear mixed model, within each land cover; the same letter indicates no significant difference. p:
+Satterthwaite F-test of landscape within each land cover.
+
+[fig_prof_01_global_depth]
+n=1523 | Depth effect (Satterthwaite F-test): p=3.0e-59 Points: estimated marginal means ± 95% CI. Depths
+sharing a letter do not differ (Holm).
+
+[fig_prof_02_by_landscape_horizontal]
+NW: n=534 | CH: n=555 | SE: n=434 Depth effect within landscape (Satterthwaite F-test): NW: p=2.2e-07 | CH:
+p=6.0e-64 | SE: p=5.9e-22 Points: estimated marginal means ± 95% CI. Letters: capital = landscapes compared
+within a depth; lowercase = depths compared within a landscape (Holm); the same letter indicates no
+significant difference.
+
+[fig_prof_02_by_landscape_vertical]
+NW: n=534 | CH: n=555 | SE: n=434 Depth effect within landscape (Satterthwaite F-test): NW: p=2.2e-07 | CH:
+p=6.0e-64 | SE: p=5.9e-22 Points: estimated marginal means ± 95% CI. Letters: capital = landscapes compared
+within a depth; lowercase = depths compared within a landscape (Holm); the same letter indicates no
+significant difference.
+
+[fig_prof_03_by_landcover_horizontal_dodge]
+Forest: n=165 | Shrubland: n=212 | Grassland: n=836 | Reforestation: n=310 Depth effect within land cover
+(Satterthwaite F-test): Forest p=1.3e-30 | Shrubland p=3.6e-20 | Grassland p=2.7e-23 | Reforestation
+p=6.0e-18 Points: estimated marginal means ± 95% CI. Letters: capital = land covers compared within a depth;
+lowercase = depths compared within a land cover (Holm); the same letter indicates no significant difference.
+Depth classes equally spaced (not to scale).
+
+[fig_prof_03_by_landcover_horizontal_facet]
+Forest: n=165 | Shrubland: n=212 | Grassland: n=836 | Reforestation: n=310 Depth effect within land cover
+(Satterthwaite F-test): Forest p=1.3e-30 | Shrubland p=3.6e-20 | Grassland p=2.7e-23 | Reforestation
+p=6.0e-18 Points: estimated marginal means ± 95% CI. Letters: capital = land covers compared within a depth;
+lowercase = depths compared within a land cover (Holm); the same letter indicates no significant difference.
+Depth classes equally spaced (not to scale).
+
+[fig_prof_03_by_landcover_vertical_dodge]
+Forest: n=165 | Shrubland: n=212 | Grassland: n=836 | Reforestation: n=310 Depth effect within land cover
+(Satterthwaite F-test): Forest p=1.3e-30 | Shrubland p=3.6e-20 | Grassland p=2.7e-23 | Reforestation
+p=6.0e-18 Points: estimated marginal means ± 95% CI. Letters: capital = land covers compared within a depth;
+lowercase = depths compared within a land cover (Holm); the same letter indicates no significant difference.
+Depth classes equally spaced (not to scale).
+
+[fig_prof_03_by_landcover_vertical_facet]
+Forest: n=165 | Shrubland: n=212 | Grassland: n=836 | Reforestation: n=310 Depth effect within land cover
+(Satterthwaite F-test): Forest p=1.3e-30 | Shrubland p=3.6e-20 | Grassland p=2.7e-23 | Reforestation
+p=6.0e-18 Points: estimated marginal means ± 95% CI. Letters: capital = land covers compared within a depth;
+lowercase = depths compared within a land cover (Holm); the same letter indicates no significant difference.
+Depth classes equally spaced (not to scale).
+
+[fig_prof_04_landcover_within_landscape_horizontal]
+Points: estimated marginal means ± 95% CI. Depth classes equally spaced (not to scale). * = land cover
+differs from grassland at this depth within the landscape (Holm, p < 0.05).
+
+[fig_prof_04_landcover_within_landscape_vertical]
+Points: estimated marginal means ± 95% CI. Depth classes equally spaced (not to scale). * = land cover
+differs from grassland at this depth within the landscape (Holm, p < 0.05).
+

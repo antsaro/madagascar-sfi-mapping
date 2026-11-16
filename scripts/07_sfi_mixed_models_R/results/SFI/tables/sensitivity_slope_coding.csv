@@ -1,0 +1,4 @@
+"variable","slope_coding","is_main_coding","structure","AIC_REML","singular","message","delta_AIC"
+"SFI","Layer mid-point (cm), centred-scaled",TRUE,"E",-4132.36832812287,FALSE,"",0
+"SFI","log(layer mid-point), centred-scaled",FALSE,"E",-4115.93601152878,FALSE,"",16.4323165940878
+"SFI","Rank 1 to 5, centred-scaled",FALSE,"E",-4129.80106409787,FALSE,"",2.56726402499498

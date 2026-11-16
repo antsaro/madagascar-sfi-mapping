@@ -1,0 +1,2 @@
+"variable","structure","singular","AIC_REML","p_landscape_x_landcover","p_landscape_x_depth","note","delta_AIC"
+"SFI","E. Intercept + slope correlated, variances/covariance per landscape",FALSE,NA,NA,NA,"Not run: the retained fit is not singular (or already structure D).",NA
